@@ -1,0 +1,1 @@
+/usr/bin/c++  --coverage -pthread CMakeFiles/practice_gtest.dir/src/c_math.c.o CMakeFiles/practice_gtest.dir/test/src/c_div.cpp.o CMakeFiles/practice_gtest.dir/test/test_main.cpp.o -o practice_gtest  -Wl,-Bstatic -lgtest -lgtest_main -lgmock -Wl,-Bdynamic

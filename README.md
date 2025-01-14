@@ -10,6 +10,7 @@ a sample template for running Gtest with c source
 # run test app
 1. ~/Test_Gtest$ cd build/
 2. ~/Test_Gtest/build$ ./practice_gtest
+![image](https://github.com/user-attachments/assets/e5f974f6-df43-457a-83b7-7d09a177a806)
 
 # generate lcov
 1. ~/Test_Gtest/build$ lcov -c -d . -o coverage.info
@@ -19,3 +20,4 @@ a sample template for running Gtest with c source
 # Open coverage report
 1. go to directory ~/Test_Gtest/build/coverage
 2. run index.html
+![image](https://github.com/user-attachments/assets/906d9cdc-d3e6-48db-b204-06158a26a040)
